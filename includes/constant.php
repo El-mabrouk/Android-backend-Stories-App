@@ -1,0 +1,6 @@
+<?php 
+
+  
+    $postPerPage = 10;
+
+?>
